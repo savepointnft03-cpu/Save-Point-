@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 1,
+    "name": "Pixel / 0001",
+    "rarity": "COMMON",
+    "number": "0001",
+    "image": "assets/nfts/sp-0001.webp",
+    "traits": {
+      "Archive": "PIXEL",
+      "Accent": "#72A6F4",
+      "Edition": "0001",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Reboot / 0002",
+    "rarity": "COMMON",
+    "number": "0002",
+    "image": "assets/nfts/sp-0002.webp",
+    "traits": {
+      "Archive": "REBOOT",
+      "Accent": "#E68AD4",
+      "Edition": "0002",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Static / 0003",
+    "rarity": "UNCOMMON",
+    "number": "0003",
+    "image": "assets/nfts/sp-0003.webp",
+    "traits": {
+      "Archive": "STATIC",
+      "Accent": "#F25C54",
+      "Edition": "0003",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Midnight / 0004",
+    "rarity": "UNCOMMON",
+    "number": "0004",
+    "image": "assets/nfts/sp-0004.webp",
+    "traits": {
+      "Archive": "MIDNIGHT",
+      "Accent": "#F6F2DB",
+      "Edition": "0004",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 5,
+    "name": "System / 0005",
+    "rarity": "COMMON",
+    "number": "0005",
+    "image": "assets/nfts/sp-0005.webp",
+    "traits": {
+      "Archive": "SYSTEM",
+      "Accent": "#A7EB6D",
+      "Edition": "0005",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Signal / 0006",
+    "rarity": "EPIC",
+    "number": "0006",
+    "image": "assets/nfts/sp-0006.webp",
+    "traits": {
+      "Archive": "SIGNAL",
+      "Accent": "#7D6BF3",
+      "Edition": "0006",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Horizon / 0007",
+    "rarity": "COMMON",
+    "number": "0007",
+    "image": "assets/nfts/sp-0007.webp",
+    "traits": {
+      "Archive": "HORIZON",
+      "Accent": "#FF728A",
+      "Edition": "0007",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hidden / 0008",
+    "rarity": "EPIC",
+    "number": "0008",
+    "image": "assets/nfts/sp-0008.webp",
+    "traits": {
+      "Archive": "HIDDEN",
+      "Accent": "#EFA84C",
+      "Edition": "0008",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Noise / 0009",
+    "rarity": "UNCOMMON",
+    "number": "0009",
+    "image": "assets/nfts/sp-0009.webp",
+    "traits": {
+      "Archive": "NOISE",
+      "Accent": "#37C8C1",
+      "Edition": "0009",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Neon / 0010",
+    "rarity": "COMMON",
+    "number": "0010",
+    "image": "assets/nfts/sp-0010.webp",
+    "traits": {
+      "Archive": "NEON",
+      "Accent": "#F25C54",
+      "Edition": "0010",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Cache / 0011",
+    "rarity": "COMMON",
+    "number": "0011",
+    "image": "assets/nfts/sp-0011.webp",
+    "traits": {
+      "Archive": "CACHE",
+      "Accent": "#F6F2DB",
+      "Edition": "0011",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Backup / 0012",
+    "rarity": "EPIC",
+    "number": "0012",
+    "image": "assets/nfts/sp-0012.webp",
+    "traits": {
+      "Archive": "BACKUP",
+      "Accent": "#A7EB6D",
+      "Edition": "0012",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Forever / 0013",
+    "rarity": "RARE",
+    "number": "0013",
+    "image": "assets/nfts/sp-0013.webp",
+    "traits": {
+      "Archive": "FOREVER",
+      "Accent": "#7D6BF3",
+      "Edition": "0013",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Rewind / 0014",
+    "rarity": "RARE",
+    "number": "0014",
+    "image": "assets/nfts/sp-0014.webp",
+    "traits": {
+      "Archive": "REWIND",
+      "Accent": "#FF728A",
+      "Edition": "0014",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Glitch / 0015",
+    "rarity": "RARE",
+    "number": "0015",
+    "image": "assets/nfts/sp-0015.webp",
+    "traits": {
+      "Archive": "GLITCH",
+      "Accent": "#EFA84C",
+      "Edition": "0015",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Fragment / 0016",
+    "rarity": "COMMON",
+    "number": "0016",
+    "image": "assets/nfts/sp-0016.webp",
+    "traits": {
+      "Archive": "FRAGMENT",
+      "Accent": "#37C8C1",
+      "Edition": "0016",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Memory / 0017",
+    "rarity": "RARE",
+    "number": "0017",
+    "image": "assets/nfts/sp-0017.webp",
+    "traits": {
+      "Archive": "MEMORY",
+      "Accent": "#F3EB19",
+      "Edition": "0017",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Archive / 0018",
+    "rarity": "COMMON",
+    "number": "0018",
+    "image": "assets/nfts/sp-0018.webp",
+    "traits": {
+      "Archive": "ARCHIVE",
+      "Accent": "#72A6F4",
+      "Edition": "0018",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleep / 0019",
+    "rarity": "UNCOMMON",
+    "number": "0019",
+    "image": "assets/nfts/sp-0019.webp",
+    "traits": {
+      "Archive": "SLEEP",
+      "Accent": "#E68AD4",
+      "Edition": "0019",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Offline / 0020",
+    "rarity": "COMMON",
+    "number": "0020",
+    "image": "assets/nfts/sp-0020.webp",
+    "traits": {
+      "Archive": "OFFLINE",
+      "Accent": "#7D6BF3",
+      "Edition": "0020",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Phantom / 0021",
+    "rarity": "COMMON",
+    "number": "0021",
+    "image": "assets/nfts/sp-0021.webp",
+    "traits": {
+      "Archive": "PHANTOM",
+      "Accent": "#FF728A",
+      "Edition": "0021",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Afterglow / 0022",
+    "rarity": "COMMON",
+    "number": "0022",
+    "image": "assets/nfts/sp-0022.webp",
+    "traits": {
+      "Archive": "AFTERGLOW",
+      "Accent": "#EFA84C",
+      "Edition": "0022",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Void / 0023",
+    "rarity": "RARE",
+    "number": "0023",
+    "image": "assets/nfts/sp-0023.webp",
+    "traits": {
+      "Archive": "VOID",
+      "Accent": "#37C8C1",
+      "Edition": "0023",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Trace / 0024",
+    "rarity": "RARE",
+    "number": "0024",
+    "image": "assets/nfts/sp-0024.webp",
+    "traits": {
+      "Archive": "TRACE",
+      "Accent": "#F3EB19",
+      "Edition": "0024",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Dream / 0025",
+    "rarity": "COMMON",
+    "number": "0025",
+    "image": "assets/nfts/sp-0025.webp",
+    "traits": {
+      "Archive": "DREAM",
+      "Accent": "#72A6F4",
+      "Edition": "0025",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Future / 0026",
+    "rarity": "COMMON",
+    "number": "0026",
+    "image": "assets/nfts/sp-0026.webp",
+    "traits": {
+      "Archive": "FUTURE",
+      "Accent": "#E68AD4",
+      "Edition": "0026",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Pulse / 0027",
+    "rarity": "UNCOMMON",
+    "number": "0027",
+    "image": "assets/nfts/sp-0027.webp",
+    "traits": {
+      "Archive": "PULSE",
+      "Accent": "#F25C54",
+      "Edition": "0027",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Echo / 0028",
+    "rarity": "UNCOMMON",
+    "number": "0028",
+    "image": "assets/nfts/sp-0028.webp",
+    "traits": {
+      "Archive": "ECHO",
+      "Accent": "#F6F2DB",
+      "Edition": "0028",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Lost / 0029",
+    "rarity": "COMMON",
+    "number": "0029",
+    "image": "assets/nfts/sp-0029.webp",
+    "traits": {
+      "Archive": "LOST",
+      "Accent": "#A7EB6D",
+      "Edition": "0029",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Ghost / 0030",
+    "rarity": "COMMON",
+    "number": "0030",
+    "image": "assets/nfts/sp-0030.webp",
+    "traits": {
+      "Archive": "GHOST",
+      "Accent": "#37C8C1",
+      "Edition": "0030",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pixel / 0031",
+    "rarity": "COMMON",
+    "number": "0031",
+    "image": "assets/nfts/sp-0031.webp",
+    "traits": {
+      "Archive": "PIXEL",
+      "Accent": "#F3EB19",
+      "Edition": "0031",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Reboot / 0032",
+    "rarity": "UNCOMMON",
+    "number": "0032",
+    "image": "assets/nfts/sp-0032.webp",
+    "traits": {
+      "Archive": "REBOOT",
+      "Accent": "#72A6F4",
+      "Edition": "0032",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Static / 0033",
+    "rarity": "COMMON",
+    "number": "0033",
+    "image": "assets/nfts/sp-0033.webp",
+    "traits": {
+      "Archive": "STATIC",
+      "Accent": "#E68AD4",
+      "Edition": "0033",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Midnight / 0034",
+    "rarity": "COMMON",
+    "number": "0034",
+    "image": "assets/nfts/sp-0034.webp",
+    "traits": {
+      "Archive": "MIDNIGHT",
+      "Accent": "#F25C54",
+      "Edition": "0034",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 35,
+    "name": "System / 0035",
+    "rarity": "COMMON",
+    "number": "0035",
+    "image": "assets/nfts/sp-0035.webp",
+    "traits": {
+      "Archive": "SYSTEM",
+      "Accent": "#F6F2DB",
+      "Edition": "0035",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Signal / 0036",
+    "rarity": "UNCOMMON",
+    "number": "0036",
+    "image": "assets/nfts/sp-0036.webp",
+    "traits": {
+      "Archive": "SIGNAL",
+      "Accent": "#A7EB6D",
+      "Edition": "0036",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Horizon / 0037",
+    "rarity": "RARE",
+    "number": "0037",
+    "image": "assets/nfts/sp-0037.webp",
+    "traits": {
+      "Archive": "HORIZON",
+      "Accent": "#7D6BF3",
+      "Edition": "0037",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Hidden / 0038",
+    "rarity": "COMMON",
+    "number": "0038",
+    "image": "assets/nfts/sp-0038.webp",
+    "traits": {
+      "Archive": "HIDDEN",
+      "Accent": "#FF728A",
+      "Edition": "0038",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Noise / 0039",
+    "rarity": "COMMON",
+    "number": "0039",
+    "image": "assets/nfts/sp-0039.webp",
+    "traits": {
+      "Archive": "NOISE",
+      "Accent": "#EFA84C",
+      "Edition": "0039",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Neon / 0040",
+    "rarity": "COMMON",
+    "number": "0040",
+    "image": "assets/nfts/sp-0040.webp",
+    "traits": {
+      "Archive": "NEON",
+      "Accent": "#E68AD4",
+      "Edition": "0040",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Cache / 0041",
+    "rarity": "COMMON",
+    "number": "0041",
+    "image": "assets/nfts/sp-0041.webp",
+    "traits": {
+      "Archive": "CACHE",
+      "Accent": "#F25C54",
+      "Edition": "0041",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Backup / 0042",
+    "rarity": "UNCOMMON",
+    "number": "0042",
+    "image": "assets/nfts/sp-0042.webp",
+    "traits": {
+      "Archive": "BACKUP",
+      "Accent": "#F6F2DB",
+      "Edition": "0042",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Forever / 0043",
+    "rarity": "EPIC",
+    "number": "0043",
+    "image": "assets/nfts/sp-0043.webp",
+    "traits": {
+      "Archive": "FOREVER",
+      "Accent": "#A7EB6D",
+      "Edition": "0043",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Rewind / 0044",
+    "rarity": "UNCOMMON",
+    "number": "0044",
+    "image": "assets/nfts/sp-0044.webp",
+    "traits": {
+      "Archive": "REWIND",
+      "Accent": "#7D6BF3",
+      "Edition": "0044",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Glitch / 0045",
+    "rarity": "UNCOMMON",
+    "number": "0045",
+    "image": "assets/nfts/sp-0045.webp",
+    "traits": {
+      "Archive": "GLITCH",
+      "Accent": "#FF728A",
+      "Edition": "0045",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Fragment / 0046",
+    "rarity": "COMMON",
+    "number": "0046",
+    "image": "assets/nfts/sp-0046.webp",
+    "traits": {
+      "Archive": "FRAGMENT",
+      "Accent": "#EFA84C",
+      "Edition": "0046",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Memory / 0047",
+    "rarity": "UNCOMMON",
+    "number": "0047",
+    "image": "assets/nfts/sp-0047.webp",
+    "traits": {
+      "Archive": "MEMORY",
+      "Accent": "#37C8C1",
+      "Edition": "0047",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Archive / 0048",
+    "rarity": "COMMON",
+    "number": "0048",
+    "image": "assets/nfts/sp-0048.webp",
+    "traits": {
+      "Archive": "ARCHIVE",
+      "Accent": "#F3EB19",
+      "Edition": "0048",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Sleep / 0049",
+    "rarity": "COMMON",
+    "number": "0049",
+    "image": "assets/nfts/sp-0049.webp",
+    "traits": {
+      "Archive": "SLEEP",
+      "Accent": "#72A6F4",
+      "Edition": "0049",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Offline / 0050",
+    "rarity": "COMMON",
+    "number": "0050",
+    "image": "assets/nfts/sp-0050.webp",
+    "traits": {
+      "Archive": "OFFLINE",
+      "Accent": "#A7EB6D",
+      "Edition": "0050",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Phantom / 0051",
+    "rarity": "RARE",
+    "number": "0051",
+    "image": "assets/nfts/sp-0051.webp",
+    "traits": {
+      "Archive": "PHANTOM",
+      "Accent": "#7D6BF3",
+      "Edition": "0051",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Afterglow / 0052",
+    "rarity": "COMMON",
+    "number": "0052",
+    "image": "assets/nfts/sp-0052.webp",
+    "traits": {
+      "Archive": "AFTERGLOW",
+      "Accent": "#FF728A",
+      "Edition": "0052",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Void / 0053",
+    "rarity": "UNCOMMON",
+    "number": "0053",
+    "image": "assets/nfts/sp-0053.webp",
+    "traits": {
+      "Archive": "VOID",
+      "Accent": "#EFA84C",
+      "Edition": "0053",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Trace / 0054",
+    "rarity": "UNCOMMON",
+    "number": "0054",
+    "image": "assets/nfts/sp-0054.webp",
+    "traits": {
+      "Archive": "TRACE",
+      "Accent": "#37C8C1",
+      "Edition": "0054",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Dream / 0055",
+    "rarity": "RARE",
+    "number": "0055",
+    "image": "assets/nfts/sp-0055.webp",
+    "traits": {
+      "Archive": "DREAM",
+      "Accent": "#F3EB19",
+      "Edition": "0055",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Future / 0056",
+    "rarity": "UNCOMMON",
+    "number": "0056",
+    "image": "assets/nfts/sp-0056.webp",
+    "traits": {
+      "Archive": "FUTURE",
+      "Accent": "#72A6F4",
+      "Edition": "0056",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Pulse / 0057",
+    "rarity": "RARE",
+    "number": "0057",
+    "image": "assets/nfts/sp-0057.webp",
+    "traits": {
+      "Archive": "PULSE",
+      "Accent": "#E68AD4",
+      "Edition": "0057",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Echo / 0058",
+    "rarity": "RARE",
+    "number": "0058",
+    "image": "assets/nfts/sp-0058.webp",
+    "traits": {
+      "Archive": "ECHO",
+      "Accent": "#F25C54",
+      "Edition": "0058",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Lost / 0059",
+    "rarity": "UNCOMMON",
+    "number": "0059",
+    "image": "assets/nfts/sp-0059.webp",
+    "traits": {
+      "Archive": "LOST",
+      "Accent": "#F6F2DB",
+      "Edition": "0059",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Ghost / 0060",
+    "rarity": "COMMON",
+    "number": "0060",
+    "image": "assets/nfts/sp-0060.webp",
+    "traits": {
+      "Archive": "GHOST",
+      "Accent": "#EFA84C",
+      "Edition": "0060",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Pixel / 0061",
+    "rarity": "UNCOMMON",
+    "number": "0061",
+    "image": "assets/nfts/sp-0061.webp",
+    "traits": {
+      "Archive": "PIXEL",
+      "Accent": "#37C8C1",
+      "Edition": "0061",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Reboot / 0062",
+    "rarity": "COMMON",
+    "number": "0062",
+    "image": "assets/nfts/sp-0062.webp",
+    "traits": {
+      "Archive": "REBOOT",
+      "Accent": "#F3EB19",
+      "Edition": "0062",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Static / 0063",
+    "rarity": "UNCOMMON",
+    "number": "0063",
+    "image": "assets/nfts/sp-0063.webp",
+    "traits": {
+      "Archive": "STATIC",
+      "Accent": "#72A6F4",
+      "Edition": "0063",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Midnight / 0064",
+    "rarity": "COMMON",
+    "number": "0064",
+    "image": "assets/nfts/sp-0064.webp",
+    "traits": {
+      "Archive": "MIDNIGHT",
+      "Accent": "#E68AD4",
+      "Edition": "0064",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 65,
+    "name": "System / 0065",
+    "rarity": "UNCOMMON",
+    "number": "0065",
+    "image": "assets/nfts/sp-0065.webp",
+    "traits": {
+      "Archive": "SYSTEM",
+      "Accent": "#F25C54",
+      "Edition": "0065",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Signal / 0066",
+    "rarity": "COMMON",
+    "number": "0066",
+    "image": "assets/nfts/sp-0066.webp",
+    "traits": {
+      "Archive": "SIGNAL",
+      "Accent": "#F6F2DB",
+      "Edition": "0066",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Horizon / 0067",
+    "rarity": "RARE",
+    "number": "0067",
+    "image": "assets/nfts/sp-0067.webp",
+    "traits": {
+      "Archive": "HORIZON",
+      "Accent": "#A7EB6D",
+      "Edition": "0067",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Hidden / 0068",
+    "rarity": "COMMON",
+    "number": "0068",
+    "image": "assets/nfts/sp-0068.webp",
+    "traits": {
+      "Archive": "HIDDEN",
+      "Accent": "#7D6BF3",
+      "Edition": "0068",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Noise / 0069",
+    "rarity": "UNCOMMON",
+    "number": "0069",
+    "image": "assets/nfts/sp-0069.webp",
+    "traits": {
+      "Archive": "NOISE",
+      "Accent": "#FF728A",
+      "Edition": "0069",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Neon / 0070",
+    "rarity": "COMMON",
+    "number": "0070",
+    "image": "assets/nfts/sp-0070.webp",
+    "traits": {
+      "Archive": "NEON",
+      "Accent": "#72A6F4",
+      "Edition": "0070",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Cache / 0071",
+    "rarity": "RARE",
+    "number": "0071",
+    "image": "assets/nfts/sp-0071.webp",
+    "traits": {
+      "Archive": "CACHE",
+      "Accent": "#E68AD4",
+      "Edition": "0071",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Backup / 0072",
+    "rarity": "COMMON",
+    "number": "0072",
+    "image": "assets/nfts/sp-0072.webp",
+    "traits": {
+      "Archive": "BACKUP",
+      "Accent": "#F25C54",
+      "Edition": "0072",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Forever / 0073",
+    "rarity": "RARE",
+    "number": "0073",
+    "image": "assets/nfts/sp-0073.webp",
+    "traits": {
+      "Archive": "FOREVER",
+      "Accent": "#F6F2DB",
+      "Edition": "0073",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Rewind / 0074",
+    "rarity": "COMMON",
+    "number": "0074",
+    "image": "assets/nfts/sp-0074.webp",
+    "traits": {
+      "Archive": "REWIND",
+      "Accent": "#A7EB6D",
+      "Edition": "0074",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Glitch / 0075",
+    "rarity": "COMMON",
+    "number": "0075",
+    "image": "assets/nfts/sp-0075.webp",
+    "traits": {
+      "Archive": "GLITCH",
+      "Accent": "#7D6BF3",
+      "Edition": "0075",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Fragment / 0076",
+    "rarity": "COMMON",
+    "number": "0076",
+    "image": "assets/nfts/sp-0076.webp",
+    "traits": {
+      "Archive": "FRAGMENT",
+      "Accent": "#FF728A",
+      "Edition": "0076",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Memory / 0077",
+    "rarity": "COMMON",
+    "number": "0077",
+    "image": "assets/nfts/sp-0077.webp",
+    "traits": {
+      "Archive": "MEMORY",
+      "Accent": "#EFA84C",
+      "Edition": "0077",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Archive / 0078",
+    "rarity": "RARE",
+    "number": "0078",
+    "image": "assets/nfts/sp-0078.webp",
+    "traits": {
+      "Archive": "ARCHIVE",
+      "Accent": "#37C8C1",
+      "Edition": "0078",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Sleep / 0079",
+    "rarity": "RARE",
+    "number": "0079",
+    "image": "assets/nfts/sp-0079.webp",
+    "traits": {
+      "Archive": "SLEEP",
+      "Accent": "#F3EB19",
+      "Edition": "0079",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Offline / 0080",
+    "rarity": "UNCOMMON",
+    "number": "0080",
+    "image": "assets/nfts/sp-0080.webp",
+    "traits": {
+      "Archive": "OFFLINE",
+      "Accent": "#F6F2DB",
+      "Edition": "0080",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Phantom / 0081",
+    "rarity": "COMMON",
+    "number": "0081",
+    "image": "assets/nfts/sp-0081.webp",
+    "traits": {
+      "Archive": "PHANTOM",
+      "Accent": "#A7EB6D",
+      "Edition": "0081",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Afterglow / 0082",
+    "rarity": "EPIC",
+    "number": "0082",
+    "image": "assets/nfts/sp-0082.webp",
+    "traits": {
+      "Archive": "AFTERGLOW",
+      "Accent": "#7D6BF3",
+      "Edition": "0082",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Void / 0083",
+    "rarity": "UNCOMMON",
+    "number": "0083",
+    "image": "assets/nfts/sp-0083.webp",
+    "traits": {
+      "Archive": "VOID",
+      "Accent": "#FF728A",
+      "Edition": "0083",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Trace / 0084",
+    "rarity": "COMMON",
+    "number": "0084",
+    "image": "assets/nfts/sp-0084.webp",
+    "traits": {
+      "Archive": "TRACE",
+      "Accent": "#EFA84C",
+      "Edition": "0084",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Dream / 0085",
+    "rarity": "LEGENDARY",
+    "number": "0085",
+    "image": "assets/nfts/sp-0085.webp",
+    "traits": {
+      "Archive": "DREAM",
+      "Accent": "#37C8C1",
+      "Edition": "0085",
+      "Rarity": "LEGENDARY"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Future / 0086",
+    "rarity": "COMMON",
+    "number": "0086",
+    "image": "assets/nfts/sp-0086.webp",
+    "traits": {
+      "Archive": "FUTURE",
+      "Accent": "#F3EB19",
+      "Edition": "0086",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Pulse / 0087",
+    "rarity": "UNCOMMON",
+    "number": "0087",
+    "image": "assets/nfts/sp-0087.webp",
+    "traits": {
+      "Archive": "PULSE",
+      "Accent": "#72A6F4",
+      "Edition": "0087",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Echo / 0088",
+    "rarity": "RARE",
+    "number": "0088",
+    "image": "assets/nfts/sp-0088.webp",
+    "traits": {
+      "Archive": "ECHO",
+      "Accent": "#E68AD4",
+      "Edition": "0088",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 89,
+    "name": "Lost / 0089",
+    "rarity": "EPIC",
+    "number": "0089",
+    "image": "assets/nfts/sp-0089.webp",
+    "traits": {
+      "Archive": "LOST",
+      "Accent": "#F25C54",
+      "Edition": "0089",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Ghost / 0090",
+    "rarity": "RARE",
+    "number": "0090",
+    "image": "assets/nfts/sp-0090.webp",
+    "traits": {
+      "Archive": "GHOST",
+      "Accent": "#FF728A",
+      "Edition": "0090",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Pixel / 0091",
+    "rarity": "RARE",
+    "number": "0091",
+    "image": "assets/nfts/sp-0091.webp",
+    "traits": {
+      "Archive": "PIXEL",
+      "Accent": "#EFA84C",
+      "Edition": "0091",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Reboot / 0092",
+    "rarity": "UNCOMMON",
+    "number": "0092",
+    "image": "assets/nfts/sp-0092.webp",
+    "traits": {
+      "Archive": "REBOOT",
+      "Accent": "#37C8C1",
+      "Edition": "0092",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Static / 0093",
+    "rarity": "UNCOMMON",
+    "number": "0093",
+    "image": "assets/nfts/sp-0093.webp",
+    "traits": {
+      "Archive": "STATIC",
+      "Accent": "#F3EB19",
+      "Edition": "0093",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Midnight / 0094",
+    "rarity": "COMMON",
+    "number": "0094",
+    "image": "assets/nfts/sp-0094.webp",
+    "traits": {
+      "Archive": "MIDNIGHT",
+      "Accent": "#72A6F4",
+      "Edition": "0094",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 95,
+    "name": "System / 0095",
+    "rarity": "COMMON",
+    "number": "0095",
+    "image": "assets/nfts/sp-0095.webp",
+    "traits": {
+      "Archive": "SYSTEM",
+      "Accent": "#E68AD4",
+      "Edition": "0095",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Signal / 0096",
+    "rarity": "UNCOMMON",
+    "number": "0096",
+    "image": "assets/nfts/sp-0096.webp",
+    "traits": {
+      "Archive": "SIGNAL",
+      "Accent": "#F25C54",
+      "Edition": "0096",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Horizon / 0097",
+    "rarity": "COMMON",
+    "number": "0097",
+    "image": "assets/nfts/sp-0097.webp",
+    "traits": {
+      "Archive": "HORIZON",
+      "Accent": "#F6F2DB",
+      "Edition": "0097",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Hidden / 0098",
+    "rarity": "COMMON",
+    "number": "0098",
+    "image": "assets/nfts/sp-0098.webp",
+    "traits": {
+      "Archive": "HIDDEN",
+      "Accent": "#A7EB6D",
+      "Edition": "0098",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Noise / 0099",
+    "rarity": "COMMON",
+    "number": "0099",
+    "image": "assets/nfts/sp-0099.webp",
+    "traits": {
+      "Archive": "NOISE",
+      "Accent": "#7D6BF3",
+      "Edition": "0099",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Neon / 0100",
+    "rarity": "RARE",
+    "number": "0100",
+    "image": "assets/nfts/sp-0100.webp",
+    "traits": {
+      "Archive": "NEON",
+      "Accent": "#F3EB19",
+      "Edition": "0100",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Cache / 0101",
+    "rarity": "UNCOMMON",
+    "number": "0101",
+    "image": "assets/nfts/sp-0101.webp",
+    "traits": {
+      "Archive": "CACHE",
+      "Accent": "#72A6F4",
+      "Edition": "0101",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Backup / 0102",
+    "rarity": "RARE",
+    "number": "0102",
+    "image": "assets/nfts/sp-0102.webp",
+    "traits": {
+      "Archive": "BACKUP",
+      "Accent": "#E68AD4",
+      "Edition": "0102",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Forever / 0103",
+    "rarity": "RARE",
+    "number": "0103",
+    "image": "assets/nfts/sp-0103.webp",
+    "traits": {
+      "Archive": "FOREVER",
+      "Accent": "#F25C54",
+      "Edition": "0103",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Rewind / 0104",
+    "rarity": "COMMON",
+    "number": "0104",
+    "image": "assets/nfts/sp-0104.webp",
+    "traits": {
+      "Archive": "REWIND",
+      "Accent": "#F6F2DB",
+      "Edition": "0104",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Glitch / 0105",
+    "rarity": "UNCOMMON",
+    "number": "0105",
+    "image": "assets/nfts/sp-0105.webp",
+    "traits": {
+      "Archive": "GLITCH",
+      "Accent": "#A7EB6D",
+      "Edition": "0105",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Fragment / 0106",
+    "rarity": "COMMON",
+    "number": "0106",
+    "image": "assets/nfts/sp-0106.webp",
+    "traits": {
+      "Archive": "FRAGMENT",
+      "Accent": "#7D6BF3",
+      "Edition": "0106",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Memory / 0107",
+    "rarity": "UNCOMMON",
+    "number": "0107",
+    "image": "assets/nfts/sp-0107.webp",
+    "traits": {
+      "Archive": "MEMORY",
+      "Accent": "#FF728A",
+      "Edition": "0107",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 108,
+    "name": "Archive / 0108",
+    "rarity": "COMMON",
+    "number": "0108",
+    "image": "assets/nfts/sp-0108.webp",
+    "traits": {
+      "Archive": "ARCHIVE",
+      "Accent": "#EFA84C",
+      "Edition": "0108",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Sleep / 0109",
+    "rarity": "UNCOMMON",
+    "number": "0109",
+    "image": "assets/nfts/sp-0109.webp",
+    "traits": {
+      "Archive": "SLEEP",
+      "Accent": "#37C8C1",
+      "Edition": "0109",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Offline / 0110",
+    "rarity": "COMMON",
+    "number": "0110",
+    "image": "assets/nfts/sp-0110.webp",
+    "traits": {
+      "Archive": "OFFLINE",
+      "Accent": "#F25C54",
+      "Edition": "0110",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Phantom / 0111",
+    "rarity": "MYTHIC",
+    "number": "0111",
+    "image": "assets/nfts/sp-0111.webp",
+    "traits": {
+      "Archive": "PHANTOM",
+      "Accent": "#F6F2DB",
+      "Edition": "0111",
+      "Rarity": "MYTHIC"
+    }
+  },
+  {
+    "id": 112,
+    "name": "Afterglow / 0112",
+    "rarity": "UNCOMMON",
+    "number": "0112",
+    "image": "assets/nfts/sp-0112.webp",
+    "traits": {
+      "Archive": "AFTERGLOW",
+      "Accent": "#A7EB6D",
+      "Edition": "0112",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 113,
+    "name": "Void / 0113",
+    "rarity": "EPIC",
+    "number": "0113",
+    "image": "assets/nfts/sp-0113.webp",
+    "traits": {
+      "Archive": "VOID",
+      "Accent": "#7D6BF3",
+      "Edition": "0113",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 114,
+    "name": "Trace / 0114",
+    "rarity": "COMMON",
+    "number": "0114",
+    "image": "assets/nfts/sp-0114.webp",
+    "traits": {
+      "Archive": "TRACE",
+      "Accent": "#FF728A",
+      "Edition": "0114",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 115,
+    "name": "Dream / 0115",
+    "rarity": "UNCOMMON",
+    "number": "0115",
+    "image": "assets/nfts/sp-0115.webp",
+    "traits": {
+      "Archive": "DREAM",
+      "Accent": "#EFA84C",
+      "Edition": "0115",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 116,
+    "name": "Future / 0116",
+    "rarity": "COMMON",
+    "number": "0116",
+    "image": "assets/nfts/sp-0116.webp",
+    "traits": {
+      "Archive": "FUTURE",
+      "Accent": "#37C8C1",
+      "Edition": "0116",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 117,
+    "name": "Pulse / 0117",
+    "rarity": "RARE",
+    "number": "0117",
+    "image": "assets/nfts/sp-0117.webp",
+    "traits": {
+      "Archive": "PULSE",
+      "Accent": "#F3EB19",
+      "Edition": "0117",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 118,
+    "name": "Echo / 0118",
+    "rarity": "COMMON",
+    "number": "0118",
+    "image": "assets/nfts/sp-0118.webp",
+    "traits": {
+      "Archive": "ECHO",
+      "Accent": "#72A6F4",
+      "Edition": "0118",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 119,
+    "name": "Lost / 0119",
+    "rarity": "RARE",
+    "number": "0119",
+    "image": "assets/nfts/sp-0119.webp",
+    "traits": {
+      "Archive": "LOST",
+      "Accent": "#E68AD4",
+      "Edition": "0119",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 120,
+    "name": "Ghost / 0120",
+    "rarity": "UNCOMMON",
+    "number": "0120",
+    "image": "assets/nfts/sp-0120.webp",
+    "traits": {
+      "Archive": "GHOST",
+      "Accent": "#7D6BF3",
+      "Edition": "0120",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 121,
+    "name": "Pixel / 0121",
+    "rarity": "COMMON",
+    "number": "0121",
+    "image": "assets/nfts/sp-0121.webp",
+    "traits": {
+      "Archive": "PIXEL",
+      "Accent": "#FF728A",
+      "Edition": "0121",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 122,
+    "name": "Reboot / 0122",
+    "rarity": "COMMON",
+    "number": "0122",
+    "image": "assets/nfts/sp-0122.webp",
+    "traits": {
+      "Archive": "REBOOT",
+      "Accent": "#EFA84C",
+      "Edition": "0122",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 123,
+    "name": "Static / 0123",
+    "rarity": "LEGENDARY",
+    "number": "0123",
+    "image": "assets/nfts/sp-0123.webp",
+    "traits": {
+      "Archive": "STATIC",
+      "Accent": "#37C8C1",
+      "Edition": "0123",
+      "Rarity": "LEGENDARY"
+    }
+  },
+  {
+    "id": 124,
+    "name": "Midnight / 0124",
+    "rarity": "UNCOMMON",
+    "number": "0124",
+    "image": "assets/nfts/sp-0124.webp",
+    "traits": {
+      "Archive": "MIDNIGHT",
+      "Accent": "#F3EB19",
+      "Edition": "0124",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 125,
+    "name": "System / 0125",
+    "rarity": "UNCOMMON",
+    "number": "0125",
+    "image": "assets/nfts/sp-0125.webp",
+    "traits": {
+      "Archive": "SYSTEM",
+      "Accent": "#72A6F4",
+      "Edition": "0125",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 126,
+    "name": "Signal / 0126",
+    "rarity": "UNCOMMON",
+    "number": "0126",
+    "image": "assets/nfts/sp-0126.webp",
+    "traits": {
+      "Archive": "SIGNAL",
+      "Accent": "#E68AD4",
+      "Edition": "0126",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 127,
+    "name": "Horizon / 0127",
+    "rarity": "UNCOMMON",
+    "number": "0127",
+    "image": "assets/nfts/sp-0127.webp",
+    "traits": {
+      "Archive": "HORIZON",
+      "Accent": "#F25C54",
+      "Edition": "0127",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 128,
+    "name": "Hidden / 0128",
+    "rarity": "COMMON",
+    "number": "0128",
+    "image": "assets/nfts/sp-0128.webp",
+    "traits": {
+      "Archive": "HIDDEN",
+      "Accent": "#F6F2DB",
+      "Edition": "0128",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 129,
+    "name": "Noise / 0129",
+    "rarity": "UNCOMMON",
+    "number": "0129",
+    "image": "assets/nfts/sp-0129.webp",
+    "traits": {
+      "Archive": "NOISE",
+      "Accent": "#A7EB6D",
+      "Edition": "0129",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 130,
+    "name": "Neon / 0130",
+    "rarity": "RARE",
+    "number": "0130",
+    "image": "assets/nfts/sp-0130.webp",
+    "traits": {
+      "Archive": "NEON",
+      "Accent": "#37C8C1",
+      "Edition": "0130",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 131,
+    "name": "Cache / 0131",
+    "rarity": "LEGENDARY",
+    "number": "0131",
+    "image": "assets/nfts/sp-0131.webp",
+    "traits": {
+      "Archive": "CACHE",
+      "Accent": "#F3EB19",
+      "Edition": "0131",
+      "Rarity": "LEGENDARY"
+    }
+  },
+  {
+    "id": 132,
+    "name": "Backup / 0132",
+    "rarity": "COMMON",
+    "number": "0132",
+    "image": "assets/nfts/sp-0132.webp",
+    "traits": {
+      "Archive": "BACKUP",
+      "Accent": "#72A6F4",
+      "Edition": "0132",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 133,
+    "name": "Forever / 0133",
+    "rarity": "UNCOMMON",
+    "number": "0133",
+    "image": "assets/nfts/sp-0133.webp",
+    "traits": {
+      "Archive": "FOREVER",
+      "Accent": "#E68AD4",
+      "Edition": "0133",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 134,
+    "name": "Rewind / 0134",
+    "rarity": "COMMON",
+    "number": "0134",
+    "image": "assets/nfts/sp-0134.webp",
+    "traits": {
+      "Archive": "REWIND",
+      "Accent": "#F25C54",
+      "Edition": "0134",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 135,
+    "name": "Glitch / 0135",
+    "rarity": "LEGENDARY",
+    "number": "0135",
+    "image": "assets/nfts/sp-0135.webp",
+    "traits": {
+      "Archive": "GLITCH",
+      "Accent": "#F6F2DB",
+      "Edition": "0135",
+      "Rarity": "LEGENDARY"
+    }
+  },
+  {
+    "id": 136,
+    "name": "Fragment / 0136",
+    "rarity": "UNCOMMON",
+    "number": "0136",
+    "image": "assets/nfts/sp-0136.webp",
+    "traits": {
+      "Archive": "FRAGMENT",
+      "Accent": "#A7EB6D",
+      "Edition": "0136",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 137,
+    "name": "Memory / 0137",
+    "rarity": "UNCOMMON",
+    "number": "0137",
+    "image": "assets/nfts/sp-0137.webp",
+    "traits": {
+      "Archive": "MEMORY",
+      "Accent": "#7D6BF3",
+      "Edition": "0137",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 138,
+    "name": "Archive / 0138",
+    "rarity": "COMMON",
+    "number": "0138",
+    "image": "assets/nfts/sp-0138.webp",
+    "traits": {
+      "Archive": "ARCHIVE",
+      "Accent": "#FF728A",
+      "Edition": "0138",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 139,
+    "name": "Sleep / 0139",
+    "rarity": "COMMON",
+    "number": "0139",
+    "image": "assets/nfts/sp-0139.webp",
+    "traits": {
+      "Archive": "SLEEP",
+      "Accent": "#EFA84C",
+      "Edition": "0139",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 140,
+    "name": "Offline / 0140",
+    "rarity": "UNCOMMON",
+    "number": "0140",
+    "image": "assets/nfts/sp-0140.webp",
+    "traits": {
+      "Archive": "OFFLINE",
+      "Accent": "#E68AD4",
+      "Edition": "0140",
+      "Rarity": "UNCOMMON"
+    }
+  },
+  {
+    "id": 141,
+    "name": "Phantom / 0141",
+    "rarity": "COMMON",
+    "number": "0141",
+    "image": "assets/nfts/sp-0141.webp",
+    "traits": {
+      "Archive": "PHANTOM",
+      "Accent": "#F25C54",
+      "Edition": "0141",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 142,
+    "name": "Afterglow / 0142",
+    "rarity": "EPIC",
+    "number": "0142",
+    "image": "assets/nfts/sp-0142.webp",
+    "traits": {
+      "Archive": "AFTERGLOW",
+      "Accent": "#F6F2DB",
+      "Edition": "0142",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 143,
+    "name": "Void / 0143",
+    "rarity": "RARE",
+    "number": "0143",
+    "image": "assets/nfts/sp-0143.webp",
+    "traits": {
+      "Archive": "VOID",
+      "Accent": "#A7EB6D",
+      "Edition": "0143",
+      "Rarity": "RARE"
+    }
+  },
+  {
+    "id": 144,
+    "name": "Trace / 0144",
+    "rarity": "EPIC",
+    "number": "0144",
+    "image": "assets/nfts/sp-0144.webp",
+    "traits": {
+      "Archive": "TRACE",
+      "Accent": "#7D6BF3",
+      "Edition": "0144",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 145,
+    "name": "Dream / 0145",
+    "rarity": "EPIC",
+    "number": "0145",
+    "image": "assets/nfts/sp-0145.webp",
+    "traits": {
+      "Archive": "DREAM",
+      "Accent": "#FF728A",
+      "Edition": "0145",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 146,
+    "name": "Future / 0146",
+    "rarity": "COMMON",
+    "number": "0146",
+    "image": "assets/nfts/sp-0146.webp",
+    "traits": {
+      "Archive": "FUTURE",
+      "Accent": "#EFA84C",
+      "Edition": "0146",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 147,
+    "name": "Pulse / 0147",
+    "rarity": "COMMON",
+    "number": "0147",
+    "image": "assets/nfts/sp-0147.webp",
+    "traits": {
+      "Archive": "PULSE",
+      "Accent": "#37C8C1",
+      "Edition": "0147",
+      "Rarity": "COMMON"
+    }
+  },
+  {
+    "id": 148,
+    "name": "Echo / 0148",
+    "rarity": "EPIC",
+    "number": "0148",
+    "image": "assets/nfts/sp-0148.webp",
+    "traits": {
+      "Archive": "ECHO",
+      "Accent": "#F3EB19",
+      "Edition": "0148",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 149,
+    "name": "Lost / 0149",
+    "rarity": "EPIC",
+    "number": "0149",
+    "image": "assets/nfts/sp-0149.webp",
+    "traits": {
+      "Archive": "LOST",
+      "Accent": "#72A6F4",
+      "Edition": "0149",
+      "Rarity": "EPIC"
+    }
+  },
+  {
+    "id": 150,
+    "name": "Ghost / 0150",
+    "rarity": "COMMON",
+    "number": "0150",
+    "image": "assets/nfts/sp-0150.webp",
+    "traits": {
+      "Archive": "GHOST",
+      "Accent": "#A7EB6D",
+      "Edition": "0150",
+      "Rarity": "COMMON"
+    }
+  }
+]
